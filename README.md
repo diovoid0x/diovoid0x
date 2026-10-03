@@ -4,4 +4,4 @@
 
 hello, i am dio.
 
-i do some programming,
+i do programming,

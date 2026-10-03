@@ -4,4 +4,4 @@
 
 hello, i am dio.
 
-i do some stuff, especially recreational programming stuff.
+i do some programming,
